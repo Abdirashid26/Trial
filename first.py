@@ -1,4 +1,7 @@
 import time
 
 print("Hello World")
-time.sleep(100)
+
+time.sleep(2)
+
+print("The world is  a Beutifull place")
